@@ -2,7 +2,7 @@
 - 안드로이드 스튜디오 설치 및 깃허브 가입, 저장소 생성
 
 
-<img width="400" height="600" src="./pic/2st.png"></img>
+<img width="400" height="500" src="./pic/2st.png"></img>
 
 # 3주차 (2022-03-22)
 <img width="400" height="600" src="./pic/3주차_플랫폼비즈니스2.jpg"></img>
